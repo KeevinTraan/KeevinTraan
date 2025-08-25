@@ -48,7 +48,7 @@ I enjoy building projects that save people time and give technology a “mind of
 
 <p align="left">
   <a href="mailto:kevintran9250@ucla.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="45"/>
   </a>
   <a href="https://www.linkedin.com/in/keevintraan2/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
