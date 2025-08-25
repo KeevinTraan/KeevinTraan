@@ -51,16 +51,12 @@ I enjoy building projects that save people time and give technology a “mind of
 
 <p align="left">
   <a href="mailto:kevintran9250@ucla.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/keevintraan2/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/KeevinTraan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
-</p>  
-
----
-
-*Always learning, always building — from autonomous robots to AI pipelines.* 
+</p>
