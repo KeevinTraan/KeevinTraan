@@ -1,66 +1,66 @@
 # Hi, I’m Kevin 👋  
 
-I’m an **Electrical Engineering student at UCLA** passionate about **automation, robotics, and AI-driven systems**.  
-I love building projects that save people time and give technology a “mind of its own.”  
-
----
-
-## About Me  
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
-
-- Studying Electrical Engineering at UCLA  
-- Built autonomous robots like **Micromouse** and a **Line-Following Robot**  
-- Interned in **Osaka, Japan** at NanoBase Co., Ltd., applying AI to optimize pipelines  
-- Passionate about PCB design, embedded systems, and automation  
+I am an **Electrical Engineering student at UCLA** with a passion for **automation, robotics, and AI-driven systems**.  
+I enjoy building projects that save people time and give technology a “mind of its own.”  
 
 ---
 
 ## Technical Skills  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Embedded-Systems-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PCB%20Design-KiCad-green?style=for-the-badge"/>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>  
+
+---
+
+## Experience  
+
+**AI Full Stack Software Engineering Intern** @ NanoBase (Osaka, Japan)  
+- Optimized AI-driven Work Breakdown Structure pipeline, reducing runtime from **20 minutes to 1 minute**  
+- Built an interactive **React + TypeScript UI** for WBS previews  
+- Automated GitHub repo and markdown generation with PostgreSQL and MCP tools  
+
+**Audio Visual Technician** @ UCLA Residential Life  
+- Operated and troubleshooted AV systems for 100+ large events  
+
+**Engineering Intern** @ Tiger Woods Learning Lab  
+- Taught students engineering fundamentals through hands-on solar and wind projects  
 
 ---
 
 ## Projects  
 
-### Micromouse Robot  
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Micromouse.jpg/320px-Micromouse.jpg" width="300"/>  
-Autonomous maze-solving robot using **C++, STM32, PID control, PCB design, and sensors**.  
-
----
-
-### ⚙Line-Following Robot  
-<img src="https://hackster.imgix.net/uploads/attachments/563341/linefollowingrobot.jpg?auto=compress%2Cformat&w=740&h=555&fit=max" width="300"/>  
-Arduino-powered robot with **PID control and 8 infrared sensors** for high-precision navigation.  
-
----
-
-### Polarity Game  
-<img src="https://unity.com/sites/default/files/2021-09/games.jpg" width="300"/>  
-2D platformer built in Unity with magnetic abilities, coded in **C#**.  
-
----
-
-### AI WBS Optimizer (Internship in Japan)  
-<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*2sYbBGlhNnp16OJ2uP1R-g.png" width="300"/>  
-Cut runtime from **20 minutes → 1 minute** by optimizing tasks with **AI + TypeScript**.  
+- **Micromouse (IEEE)** → Autonomous maze-solving robot using **C++, STM32, PCB design, PID control**  
+- **Autonomous Line-Following Robot** → Arduino robot with **PID + IR sensors** for obstacle navigation  
+- **Polarity (Unity Game)** → 2D platformer with magnetic abilities, coded in **C#**  
+- **AI WBS Optimizer** → Reduced processing time **20 min → 1 min** with **TypeScript + AI**  
 
 ---
 
 ## Connect with Me  
 
-<p align="center">
-  <a href="mailto:kevintran9250@ucla.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/keevintraan2/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="left">
+  <a href="mailto:kevintran9250@ucla.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/keevintraan2/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/KeevinTraan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>  
 
 ---
 
-*Always learning, always building from autonomous robots to AI pipelines.*  
+*Always learning, always building — from autonomous robots to AI pipelines.* 
