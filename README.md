@@ -33,9 +33,6 @@ I enjoy building projects that save people time and give technology a “mind of
 **Audio Visual Technician** @ UCLA Residential Life  
 - Operated and troubleshooted AV systems for 100+ large events  
 
-**Engineering Intern** @ Tiger Woods Learning Lab  
-- Taught students engineering fundamentals through hands-on solar and wind projects  
-
 ---
 
 ## Projects  
@@ -51,7 +48,7 @@ I enjoy building projects that save people time and give technology a “mind of
 
 <p align="left">
   <a href="mailto:kevintran9250@ucla.edu">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/keevintraan2/">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
