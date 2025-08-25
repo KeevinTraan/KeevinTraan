@@ -46,12 +46,13 @@ I enjoy building projects that save people time and give technology a “mind of
 
 ## Connect with Me  
 
-<p align="left">
+<p align="center">
   <a href="mailto:kevintran9250@ucla.edu">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="36" height="36"/>
   </a>
   <a href="https://www.linkedin.com/in/keevintraan2/">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/>
   </a>
 </p>
+
 
